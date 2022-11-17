@@ -1,6 +1,8 @@
+# File IO
+File IO Examples with C and C++
+
 ## C
 `stdio.h`
-
 | mode | desc            | plus    |
 |-----:|:----------------|---------|
 |    r | read            | + write |
@@ -9,7 +11,6 @@
 
 ## C++
 `std::fstream`
-
 |   mode | desc                                 |
 |-------:|:-------------------------------------|
 |     in | input                                |
